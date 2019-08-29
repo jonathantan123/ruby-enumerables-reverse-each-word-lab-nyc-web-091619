@@ -4,4 +4,4 @@ end
 sentence1.each do |x|
   sentence1[x].reverse
 end
-end 
+
