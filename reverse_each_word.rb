@@ -4,6 +4,7 @@ new_array = []
 
 sentence1.each do |word| 
   new_array << word.reverse
+end 
 
 
 new_array.join(" ")
