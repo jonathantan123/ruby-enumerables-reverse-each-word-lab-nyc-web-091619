@@ -4,5 +4,6 @@ def reverse_each_word (sentence1)
   sentence1[word].reverse!}
 end 
 
+reverse_each_word(sentence1)
 
 
