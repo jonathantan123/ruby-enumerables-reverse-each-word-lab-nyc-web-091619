@@ -1,5 +1,9 @@
 def reverse_each_word (sentence1)
   sentence1.split
-sentence1.colle |word| 
-  sentence1[word].reverse
-e
+end 
+sentence1.each {|word|
+sentence1[word].reverse
+end 
+word
+end
+
