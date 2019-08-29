@@ -4,6 +4,6 @@ sentence1.split.each {|x| x.reverse! }
 
 end
 
-def 
+
 
 
