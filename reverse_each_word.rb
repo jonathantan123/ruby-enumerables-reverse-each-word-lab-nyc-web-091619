@@ -6,7 +6,7 @@ sentence1.split(" ").each do |word|
 end 
 new_array.join(" ")
 
-# sentence1.split.collect {|x| x.reverse! }.join(" ")
+sentence1.split.collect {|x| x.reverse! }.join(" ")
 
 
 
