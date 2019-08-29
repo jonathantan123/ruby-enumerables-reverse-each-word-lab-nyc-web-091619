@@ -4,5 +4,7 @@ end
   sentence1.each {|word|
   sentence1[word].reverse!}
 end 
+end 
+
 
 
