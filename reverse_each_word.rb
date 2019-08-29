@@ -3,7 +3,7 @@ sentence1= sentence1.split (" ")
 new_array = [] 
 
 sentence1.each do |word| 
-  
+  new_array << word.reverse
 
 
 new_array.join(" ")
