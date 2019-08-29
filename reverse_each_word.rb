@@ -5,7 +5,7 @@ new_array = []
 # sentence1.split.collect {|x| x.reverse! }.join(" ")
 
 new_array << sentence1.split.each {|x| x.reverse }
-new_array
+new_array.join(" ")
 
 end
 
